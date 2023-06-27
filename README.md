@@ -7,7 +7,7 @@ This field allows you to build custom styled web pages, using https://github.com
 You can install the package via composer:
 
 ```bash
-composer require digitalcloud/nova-page-builder-field
+composer require khaledkhamis/nova-page-builder-field
 ```
 
 You can publish the required assets with:
